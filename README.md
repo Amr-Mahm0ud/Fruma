@@ -1,6 +1,6 @@
 # fruma
 
-A new Flutter project.
+Online fruit application (UI design) using Flutter.
 
 ## Getting Started
 
